@@ -17,7 +17,7 @@ const Header = ({currentUser,hidden}) => (
     <Logo className='logo'></Logo>
 </Link>
 <div className = 'options'>
-    <Link className = 'option' to = "/Shop">
+    <Link className = 'option' to = "/shop">
     SHOP
     </Link>
     <Link className = 'option' to = "/Contact">
